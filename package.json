@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1app.js",
+  "scripts": {
+    "start": "npm start 1app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DaDDy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
