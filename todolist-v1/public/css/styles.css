@@ -22,6 +22,7 @@ h1 {
 #heading {
   background-color: #A683E3;
   text-align: center;
+  text-transform: capitalize;
 }
 
 .item {
